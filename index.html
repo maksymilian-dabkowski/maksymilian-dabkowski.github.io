@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<!-- <script src="http://code.jquery.com/jquery-1.11.0.min.js"></script> -->
+<!-- <script src="jquery.loading.js"></script> -->
+
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Maksymilian Dąbkowski</title>
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,600&display=swap" rel="stylesheet" />
+    <link href="fontawesome/css/all.min.css" rel="stylesheet" />
+    <link href="css/tooplate-chilling-cafe.css" rel="stylesheet" />
+<!--
+Tooplate 2118 Chilling Cafe
+https://www.tooplate.com/view/2118-chilling-cafe
+-->
+  </head>
+  <body>
+    <div class="tm-container">
+      <div class="tm-text-white tm-page-header-container">
+        <h1 class="tm-page-header">Maksymilian Dąbkowski</h1>
+      </div>
+      <div class="tm-text-white tm-page-header-container">
+        <h1 class="tm-page-subheader">Brown University</h1>
+      </div>
+      <div class="tm-text-white tm-page-header-container">
+        <h1 class="tm-page-subsubheader">Linguistics and Logic, AB cand.</h1>
+      </div>
+      <div class="tm-main-content">
+        <!-- Research and publications -->
+        <section class="tm-section">
+          <h2 class="tm-section-header">Research and publications</h2>
+          <div class="tm-responsive-table">
+            <table>
+<!--               <tr class="tm-tr-header">
+                <th>&nbsp;</th>
+                <th>Hot</th>
+                <th>Iced</th>
+                <th>Blended</th>
+              </tr> -->
+              <tr class="thesis">
+                <td class="tm-text-right">in prep.</td>
+                <td class="tm-text-left"><b>The morphophonology of A'ingae lexical stress.</b> Honors thesis, Brown University, Providence, RI.</td>
+              </tr>
+              <tr class="appr">
+                <td class="tm-text-right">in press</td>
+                <td class="tm-text-left"><b>The apprehensional domain in A’ingae,</b> as first author, with Scott AnderBois. In an untitled volume on apprehensive/precautioning markers, Studies in Diversity Linguistics. Language Science Press.</td>
+              </tr>
+              <tr class="heavy">
+                <td class="tm-text-right">2019</td>
+                <td class="tm-text-left"><b>Heavy feet and glottal stops in A'ingae.</b> Presentation given at the 9th Conference on Indigenous Languages of Latin America, UT Austin.</td>
+              </tr>
+              <tr class="vague">
+                <td class="tm-text-right">2018</td>
+                <td class="tm-text-left"><b>A Wittgensteinian look on vagueness.</b> <i>Ivy League Undergraduate Research Journal,</i> 1.</td>
+              </tr>
+              <tr class="utra">
+                <td class="tm-text-right">2017</td>
+                <td class="tm-text-left"><b>A'ingae language documentation,</b> with Justin Bai, Kalinda Pride, and Nicholas Tomlin. Poster presented at Summer Research Symposium, Brown University, Providence, RI.</td>
+              </tr>
+              <tr class="control">
+                <td class="tm-text-right">2017</td>
+                <td class="tm-text-left"><b>Yucatecan control and lexical categories in SBCG.</b> Stefan Müller, editor, <i>Proceedings of the 24th International Conference on Head-Driven Phrase Structure Grammar, University of Kentucky, Lexington,</i> pages 162–178, Stanford, CA. CSLI Publications.</td>
+              </tr>
+              <tr class="fragment">
+                <td class="tm-text-right">2017</td>
+                <td class="tm-text-left"><b>Yucatec Maya in SBCG: A fragment,</b> with Justin Bai, Kalinda Pride, and Nicholas Tomlin. Presentation given at the 24th International Conference on Head-Driven Phrase Structure Grammar University of Kentucky, Lexington.</td>
+              </tr>
+              <tr class="szymb">
+                <td class="tm-text-right">2017</td>
+                <td class="tm-text-left"><b>An end and a beginning</b> and <b>Three things most curious.</b> Translations of the poems <b><i>Koniec i początek</i></b> and <b><i>Trzy rzeczy najdziwniejsze</i></b> by Wisława Szymborska. <i>Aldus, a Journal of  Translation,<i> 8.</td>
+              </tr>
+            </table>
+          </div>
+        </section>
+      </div>
+      <footer>
+        <p class="tm-text-white tm-footer-text">
+          Copyright &copy; 2019 Maksymilian Dąbkowski.
+          Design:
+          <a href="https://www.tooplate.com" class="tm-footer-link">Tooplate</a>
+        </p>
+      </footer>
+    </div>
+    <script src="js/jquery-3.4.1.min.js"></script>
+    <script>
+      $(function() {
+        // Adjust intro image height based on width.
+        $(window).resize(function() {
+          var img = $("#tm-intro-img");
+          var imgWidth = img.width();
+
+          // 640x425 ratio
+          var imgHeight = (imgWidth * 425) / 640;
+
+          if (imgHeight < 300) {
+            imgHeight = 300;
+          }
+
+          img.css("min-height", imgHeight + "px");
+        });
+      });
+    </script>
+    <script>
+    	$(".thesis").click(function(){
+    		window.location = "";
+    	});
+    </script>
+    <script>
+    	$(".appr").click(function(){
+    		window.location = "The_apprehensional_domain_in_A_ingae__Cof_n___ver__1_0.pdf";
+    	});
+    </script>
+    <script>
+    	$(".heavy").click(function(){
+    		window.location = "Glottal_stops_and_heavy_feet_in_A_ingae__presentation.pdf";
+    	});
+    </script>
+    <script>
+    	$(".vague").click(function(){
+    		window.location = "ILURJ Maksymilian Dabkowski PDF.pdf";
+    	});
+    </script>
+    <script>
+    	$(".utra").click(function(){
+    		window.location = "UTRA_Symposium_Poster.pdf";
+    	});
+    </script>
+    <script>
+    	$(".control").click(function(){
+    		window.location = "http://web.stanford.edu/group/cslipublications/cslipublications/HPSG/2017/hpsg2017-dabkowski.pdf";
+    	});
+    </script>
+    <script>
+    	$(".fragment").click(function(){
+    		window.location = "yucatec-fragment-slides.pdf";
+    	});
+    </script>
+    <script>
+    	$(".szymb").click(function(){
+    		window.location = "szymborska.pdf";
+    	});
+    </script>
+  </body>
+</html>
+
