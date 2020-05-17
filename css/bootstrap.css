@@ -4771,10 +4771,10 @@ a.label:focus {
   /* background-color: #777; */
   background-color: #c52222;
   letter-spacing: 1px;
-  font-family: 'Oswald', sans-serif;
+  font-family: 'Consolas', 'Oswald', sans-serif;
 }
 .label-default:hover{
-  background-color: #777; 
+  background-color: #212121; 
 }
 .label-default[href]:hover,
 .label-default[href]:focus {
