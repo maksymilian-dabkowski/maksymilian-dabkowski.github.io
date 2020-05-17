@@ -4768,7 +4768,9 @@ a.label:focus {
   top: -1px;
 }
 .label-default {
-  background-color: #777;
+  /* background-color: #777; */
+  background-color: #c52222;
+  font-family: 'Oswald Light', 'Oswald', sans-serif;
 }
 .label-default[href]:hover,
 .label-default[href]:focus {
