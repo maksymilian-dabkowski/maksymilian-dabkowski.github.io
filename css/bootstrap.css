@@ -4770,11 +4770,12 @@ a.label:focus {
 .label-default {
   /* background-color: #777; */
   background-color: #c52222;
-  letter-spacing: 1px;
+  /*letter-spacing: 1px;*/
   font-family: 'Consolas', 'Oswald', sans-serif;
 }
 .label-default:hover{
   background-color: #212121; 
+  text-transform: lowercase;
 }
 .label-default[href]:hover,
 .label-default[href]:focus {
