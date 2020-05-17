@@ -918,7 +918,8 @@ ul.footer-grid-list li span{
 }
 .panel_text {
     font-size: 14px;
-    color: #999;
+    /* color: #999; */
+    color: #212121;
     line-height: 1.8em;
 }
 .about-grids-left h4 {
