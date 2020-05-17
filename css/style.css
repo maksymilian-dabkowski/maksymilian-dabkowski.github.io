@@ -336,7 +336,8 @@ body a:hover{
 }
 p.qui{
 	text-align:center;
-	color:#999;
+	/* color:#999; */
+	color: #212121;
 	line-height:1.8em;
 	margin:1em 0 0 !important;
 	font-weight: 500 !important;
