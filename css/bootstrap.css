@@ -4773,6 +4773,9 @@ a.label:focus {
   letter-spacing: 1px;
   font-family: 'Oswald', sans-serif;
 }
+.label-default:hover{
+  background-color: #777; 
+}
 .label-default[href]:hover,
 .label-default[href]:focus {
   background-color: #5e5e5e;
