@@ -13,7 +13,7 @@ p{
 	font-size:14px;
 }
 h1,h2,h3,h4,h5,h6{
-	font-family: 'Oswald ExtraLight', 'Oswald', sans-serif;
+	font-family: 'Oswald ExtraLight', 'Oswald Light', 'Oswald', sans-serif;
 	font-weight:100;
 	margin:0;
 }
@@ -54,6 +54,7 @@ body a:hover{
 	color: #212121;
 }
 .navbar-nav > li > a {
+	font-family: 'Oswald ExtraLight', 'Oswald Light', 'Oswald', sans-serif;
     font-size: 14px;
     text-transform: uppercase;
 	padding:1em;
