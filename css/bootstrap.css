@@ -4772,7 +4772,7 @@ a.label:focus {
   background-color: #c52222;
   /*letter-spacing: 1px;*/
   text-transform: lowercase;
-  font-family: "Lucida Console", 'Consolas', monospace;
+  font-family: 'Lucida Console', 'Consolas', monospace;
 }
 .label-default:hover{
   background-color: #212121; 
