@@ -2045,7 +2045,8 @@ p.fugiat{
 	}
 	.navbar-nav {
 		margin: 0;
-		background: #212121;
+		/*background: #212121;*/
+		background: #FFFFFF;
 		padding:0 0 1em;
 	}
 	.phone {
