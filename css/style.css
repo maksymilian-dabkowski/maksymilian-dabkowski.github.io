@@ -54,7 +54,8 @@ body a:hover{
 	color: #212121;
 }
 .navbar-nav > li > a {
-	font-family: 'Oswald ExtraLight', 'Oswald Light', 'Oswald', sans-serif;
+	font-family: 'Oswald Light', 'Oswald', sans-serif;
+	letter-spacing: 1px;
     font-size: 14px;
     text-transform: uppercase;
 	padding:1em;
