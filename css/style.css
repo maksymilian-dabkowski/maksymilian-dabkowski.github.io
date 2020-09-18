@@ -37,7 +37,9 @@ h1,h2,h3{
 	/*src: url("fonts/Oswald-ExtraLight.woff");*/
 }
 h4,h5,h6{
-	font-family: 'Oswald Light', 'Oswald', sans-serif;
+	/*font-family: 'Oswald Light', 'Oswald', sans-serif;*/
+	font-family: 'Oswald', sans-serif;
+	font-weight: 300;
 	/*src: url("fonts/Oswald-Light.woff");*/
 }
 ul,label{
@@ -79,7 +81,9 @@ body a:hover{
 	/*color: #FFFFFF;*/
 }
 .navbar-nav > li > a {
-	font-family: 'Oswald Light', 'Oswald', sans-serif;
+	/*font-family: 'Oswald Light', 'Oswald', sans-serif;*/
+	font-family: 'Oswald', sans-serif;
+	font-weight: 300;
 	/*src: url("fonts/Oswald-Light.woff");*/
 	letter-spacing: 1px;
     font-size: 14px;
@@ -582,7 +586,9 @@ p.qui{
     border-radius: 0;
     font-size: 1em;
     color: #999;
-	font-family: 'Oswald Regular', 'Oswald', sans-serif;
+	/*font-family: 'Oswald Regular', 'Oswald', sans-serif;*/
+	font-family: 'Oswald', sans-serif;
+	font-weight: 400;
 	/*src: url("fonts/Oswald-Regular0.woff");*/
 	letter-spacing:1px;
 }
