@@ -4,6 +4,19 @@ Author URL: http://w3layouts.com
 License: Creative Commons Attribution 3.0 Unported
 License URL: http://creativecommons.org/licenses/by/3.0/
 --*/
+
+@font-face{
+    font-family: 'Oswald ExtraLight';
+	src: url("fonts/Oswald-ExtraLight.woff");
+}
+@font-face{
+    font-family: 'Oswald Light';
+	src: url("fonts/Oswald-Light.woff");
+}
+@font-face{
+    font-family: 'Oswald';
+	src: url("fonts/Oswald-Regular0.woff");
+}
 html, body{
     font-size: 100%;
 	font-family: 'Open Sans', sans-serif;
@@ -18,9 +31,11 @@ h1,h2,h3,h4,h5,h6{
 }
 h1,h2,h3{
 	font-family: 'Oswald ExtraLight', 'Oswald Light', 'Oswald', sans-serif;
+	/*src: url("fonts/Oswald-ExtraLight.woff");*/
 }
 h4,h5,h6{
 	font-family: 'Oswald Light', 'Oswald', sans-serif;
+	/*src: url("fonts/Oswald-Light.woff");*/
 }
 ul,label{
 	margin:0;
@@ -62,6 +77,7 @@ body a:hover{
 }
 .navbar-nav > li > a {
 	font-family: 'Oswald Light', 'Oswald', sans-serif;
+	/*src: url("fonts/Oswald-Light.woff");*/
 	letter-spacing: 1px;
     font-size: 14px;
     text-transform: uppercase;
@@ -564,6 +580,7 @@ p.qui{
     font-size: 1em;
     color: #999;
 	font-family: 'Oswald Regular', 'Oswald', sans-serif;
+	/*src: url("fonts/Oswald-Regular0.woff");*/
 	letter-spacing:1px;
 }
 .nav-tabs > li.active {
