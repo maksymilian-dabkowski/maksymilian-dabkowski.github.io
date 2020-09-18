@@ -33,7 +33,7 @@ h1,h2,h3,h4,h5,h6{
 h1,h2,h3{
 	/*font-family: 'Oswald ExtraLight', 'Oswald Light', 'Oswald', sans-serif;*/
 	font-family: 'Oswald', sans-serif;
-	font-weight: 100;
+	/*font-weight: 100;*/
 	/*src: url("fonts/Oswald-ExtraLight.woff");*/
 }
 h4,h5,h6{
