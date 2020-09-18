@@ -5,7 +5,7 @@ License: Creative Commons Attribution 3.0 Unported
 License URL: http://creativecommons.org/licenses/by/3.0/
 --*/
 
-@font-face{
+/*@font-face{
     font-family: 'Oswald ExtraLight';
 	src: url("fonts/Oswald-ExtraLight.woff");
 }
@@ -16,7 +16,8 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 @font-face{
     font-family: 'Oswald';
 	src: url("fonts/Oswald-Regular0.woff");
-}
+}*/
+
 html, body{
     font-size: 100%;
 	font-family: 'Open Sans', sans-serif;
@@ -30,7 +31,9 @@ h1,h2,h3,h4,h5,h6{
 	margin:0;
 }
 h1,h2,h3{
-	font-family: 'Oswald ExtraLight', 'Oswald Light', 'Oswald', sans-serif;
+	/*font-family: 'Oswald ExtraLight', 'Oswald Light', 'Oswald', sans-serif;*/
+	font-family: 'Oswald', sans-serif;
+	font-weight: 100;
 	/*src: url("fonts/Oswald-ExtraLight.woff");*/
 }
 h4,h5,h6{
