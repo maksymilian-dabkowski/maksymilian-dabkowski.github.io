@@ -2734,7 +2734,7 @@ a:active {
 /*  padding: 0 18px;*/
   max-height: 0;
   overflow: hidden;
-  transition: max-height 0.2s ease-out;
+  transition: max-height 0.1s ease-out;
 /*  background-color: #f1f1f1;*/
 }
 
@@ -2786,7 +2786,7 @@ color: #c52222;
 /*  padding: 100px 18px;*/
   max-height: 0;
   overflow: hidden;
-  transition: max-height 0.2s ease-out;
+  transition: max-height 0.1s ease-out;
 /*  background-color: #f1f1f1;*/
 }
 
@@ -2817,7 +2817,7 @@ color: #c52222;
   font-variant: small-caps;
 /*  font-style: italic;*/
 /*  font-weight: 600;*/
-  font-size: 15.25px;
+  font-size: 15.5px;
 /*  font-family: monospace;*/
 }
 
