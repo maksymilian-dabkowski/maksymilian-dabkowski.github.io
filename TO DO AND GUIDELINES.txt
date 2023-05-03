@@ -1,7 +1,6 @@
 TO DO
-  1. Add code to import new fonts (certainly at least Cormorant) to the research.html and index.html files; otherwise they won't load.
-  2. Run Grammarly on everything.
-  4. Should I also post my P-interest talk handout?
+  1. check if th website
+  2. Should I also post my P-interest talk handout?
 
 GUIDELINES FOR WHAT TO INCLUDE
   1. Only include the most recent versions of research, and things which have been published (including proceedings from conferences, even if they are not the most up to date).
