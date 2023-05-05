@@ -2804,9 +2804,9 @@ color: #c52222;
 
 .subsubheading {
   font-family: 'Cormorant', serif;
-  font-size: 20px;
+  font-size: 21px;
   font-weight: 600;
-  text-decoration: underline;
+/*  text-decoration: underline;*/
 }
 
 .mypanel-body {
