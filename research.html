@@ -524,10 +524,13 @@ for (inneri = 0; inneri < innercoll.length; inneri++) {
 }
 
 // THIS BELOW IS FOR HAVING STARTING WITH A COLLAPSABLE OPEN
-document.querySelector('.collapsible').click();
+setTimeout(function(){
+    document.querySelector('.collapsible').click();
+}, 333)
+// document.querySelector('.collapsible').click();
 setTimeout(function(){
     document.querySelector('.innercollapsible').click();
-}, 1000)
+}, 667)
 // document.querySelector('.innercollapsible').click();
 </script>
 
