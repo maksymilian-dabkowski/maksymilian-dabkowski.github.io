@@ -1,4 +1,6 @@
 TO DO.txt
+  - Add our Large language models and (non-)linguistic recursion paper and change the description of the project to include the constribution of the paper.
+  - Update the figure in the Discontinuous vowel harmony in Guébie section to reflect our current analysis (from the paper written largely by Emily).
   - Perhaps change the Sans Serif font of the entire website to Noto Sans.
   - Perhaps replace the Yucatec Maya multiple inheritance matrix with an AVM?
   - Should I also post my P-interest talk handout?
