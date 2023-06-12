@@ -1,6 +1,4 @@
 TO DO.txt
   - Add the arXive link to the "Large language models and (non-)linguistic recursion" paper.
-  - Update the figure in the Discontinuous vowel harmony in Guébie section to reflect our current analysis (from the Language submission written largely by Emily).
   - Perhaps change the Sans Serif font of the entire website to Noto Sans.
-  - Perhaps replace the Yucatec Maya multiple inheritance matrix with an AVM? That is a more visually distinct symbol of HPSG and related frameworks.
   - Should I also post my P-interest talk handout?
