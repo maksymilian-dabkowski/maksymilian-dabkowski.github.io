@@ -1,3 +1,4 @@
 TO DO.txt
+  - Perhaps replace the Yucatec Maya graphic again (the current one is too big)
   - Perhaps replace graphic for diphthongs and their changes with a Q-theoretic tableau. (Or keep the time axis and also add the tableau?)
   - Should I also post my P-interest talk handout?
