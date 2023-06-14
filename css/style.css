@@ -2758,7 +2758,7 @@ a:active {
 color: #c52222;
   cursor: pointer;
 /*  padding: 4px 15px;*/
-  padding: 1px 14px;
+  padding: 0px 14px 0px 14px;
   width: 100%;
   border: none;
   text-align: left;
@@ -2800,6 +2800,7 @@ color: #c52222;
 
 .inneractivetwo:after {
   content: "\2212";
+/*   padding: 10px 14px 1px 14px;*/
 }
 
 .subsubheading {
