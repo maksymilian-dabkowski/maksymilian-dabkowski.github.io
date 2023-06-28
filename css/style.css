@@ -2758,7 +2758,7 @@ a:active {
 color: #c52222;
   cursor: pointer;
 /*  padding: 4px 15px;*/
-  padding: 0px 14px 0px 14px;
+  padding: 0px 14px 0px 53px;
   width: 100%;
   border: none;
   text-align: left;
@@ -2780,7 +2780,16 @@ color: #c52222;
   color: #000;
   text-decoration: underline;
 /*  text-decoration: underline;*/
+/*  padding: 0px 14px 0px 14px;*/
 }
+
+.inneractivetwo, .innercollapsible:active {
+  padding: 0px 14px 0px 14px;
+}
+
+/*.inneractivetwo {
+  padding: 0px 14px 0px 53px;
+}*/
 
 .innercontent {
 /*  padding: 100px 18px;*/
@@ -2796,11 +2805,14 @@ color: #c52222;
   font-weight: bold;
   float: right;
   margin-left: 5px;
+/*  padding: 0px 14px 0px 53px;*/
 }
 
 .inneractivetwo:after {
   content: "\2212";
 /*   padding: 10px 14px 1px 14px;*/
+/*  padding: 0px 14px 0px 53px;*/
+/*  padding: 0px 14px 0px 14px;*/
 }
 
 .subsubheading {
