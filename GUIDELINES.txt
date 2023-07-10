@@ -1,5 +1,6 @@
 GUIDELINES.txt
   1. Only include the most recent versions of research, and things which have been published (including proceedings from conferences, even if they are not the most up to date).
     a. Take down older versions of presentations that do not represent the most up to date version of the project.
-  2. Do not include abstracts and handouts (if there are papers) or recordings of talks.
+  2. Perhaps I can include "postprints" for all major published papers.
+  3. Do not include abstracts and handouts (if there are papers) or recordings of talks.
 	  a. However, do include alternative media, such a slides or posters.
