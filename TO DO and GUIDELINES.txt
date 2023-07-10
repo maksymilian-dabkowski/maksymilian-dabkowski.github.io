@@ -1,5 +1,5 @@
 TO DO
-  - Add "manuscript(_lingbuzz)" or "postprint" to the Phonology article on A'ingae stress dominance?
+  - Add "manuscript(_lingbuzz)" or "postprint" to the Phonology article on A'ingae stress dominance? 
   - Move the LLM project above the historical project, since this is a more recent submission.
   - Replacce the graphic for large language models with something more distinct, like an instance of recursion. Perhaps the Sierpiński triangle?
   - Perhaps replace graphic for diphthongs and their changes with a Q-theoretic tableau. (Or keep the time axis and also add the tableau?)
