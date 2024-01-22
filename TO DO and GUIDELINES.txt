@@ -1,8 +1,9 @@
 TO DO
-  - Add "manuscript(_lingbuzz)" or "postprint" to the Phonology article on A'ingae stress dominance?
-  - Move the LLM project above the historical project, since this is a more recent submission.
-  - Replace the graphic for large language models with something more distinct, like an instance of recursion. Perhaps the Sierpiński triangle?
-  - Perhaps replace graphic for diphthongs and their changes with a Q-theoretic tableau. (Or keep the time axis and also add the tableau?)
+  — Put negative nominalizations handout on lingbuzz and link on my website to it?
+  — Add "manuscript(_lingbuzz)" or "postprint" to the Phonology article on A'ingae stress dominance?
+  — Move the LLM project above the historical project, since this is a more recent submission.
+  — Replace the graphic for large language models with something more distinct, like an instance of recursion. Perhaps the Sierpiński triangle?
+  — Perhaps replace graphic for diphthongs and their changes with a Q-theoretic tableau. (Or keep the time axis and also add the tableau?)
 
 GUIDELINES
   1. Only include the most recent versions of research, and things which have been published (including proceedings from conferences, even if they are not the most up to date).
