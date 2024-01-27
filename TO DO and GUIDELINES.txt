@@ -1,13 +1,14 @@
 TO DO
   — Put negative nominalizations handout on lingbuzz and link on my website to it?
+  — Remove the papers from the research folder that are not linked to by anything.
+  – Remove the indentation of A'ingae projects in the research list (doesn't look good given the expaded things around it)
   — Add "manuscript(_lingbuzz)" or "postprint" to the Phonology article on A'ingae stress dominance?
-  — Move the LLM project above the historical project, since this is a more recent submission.
   — Replace the graphic for large language models with something more distinct, like an instance of recursion. Perhaps the Sierpiński triangle?
   — Perhaps replace graphic for diphthongs and their changes with a Q-theoretic tableau. (Or keep the time axis and also add the tableau?)
 
 GUIDELINES
-  1. Only include the most recent versions of research, and things which have been published (including proceedings from conferences, even if they are not the most up to date).
-    a. Take down older versions of presentations that do not represent the most up to date version of the project.
+  1. Only include the most recent versions of research.
+    a. Do not include proceedings paper if there are full research papers developed on their basis.
   2. Perhaps I can include "postprints" for all major published papers (in addition to actual links to papers).
   3. Do not include abstracts and handouts (if there are papers) or recordings of talks.
     a. However, do include alternative media, such a slides or posters.
