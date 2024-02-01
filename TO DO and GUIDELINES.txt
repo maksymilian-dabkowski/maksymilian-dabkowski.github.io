@@ -1,4 +1,6 @@
 TO DO
+  — There is not enough space after diphthhongs and their changes and the next section on my website... No, it works correctly. Maybe I just have to increase the delay time a bit?
+  — Replace all my published articles on lingbuzz with the published version of the open access articles? (e.g. Phonology, NLLT, etc.)
   — Put negative nominalizations handout on lingbuzz and link on my website to it?
   — Remove the papers from the research folder that are not linked to by anything.
   – Remove the indentation of A'ingae projects in the research list (doesn't look good given the expaded things around it)
