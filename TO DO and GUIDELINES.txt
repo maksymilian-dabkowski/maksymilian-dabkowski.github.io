@@ -1,10 +1,6 @@
 TO DO
+  — Add the Phonological Domains workshop to my website, since that is the most recent work on this topic
   — Update the description of the section on diphthongs to reflect the advances in the LI revision.
-  — The Phonology of A'ingae: DOI
-    — verify that the DOI in my CV works correctly
-    — change the link on my homepage to the DOI (now it's linking to the lingbuzz manuscript)
-    — on the research page, change the "manuscript" link to "article" link which links to the DOI
-  — There is not enough space after diphthongs and their changes and the next section on my website... No, it works correctly. Maybe I just have to increase the delay time a bit?
   — Replace all my published articles on lingbuzz with the published version of the open access articles? (e.g. Phonology, NLLT, etc.)
   — Put negative nominalizations handout on lingbuzz and link on my website to it?
   — Remove the papers from the research folder that are not linked to by anything.
