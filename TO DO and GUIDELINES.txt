@@ -1,4 +1,5 @@
 TO DO
+  — Update the description of the section on diphthongs to reflect the advances in the LI revision.
   — The Phonology of A'ingae: DOI
     — verify that the DOI in my CV works correctly
     — change the link on my homepage to the DOI (now it's linking to the lingbuzz manuscript)
