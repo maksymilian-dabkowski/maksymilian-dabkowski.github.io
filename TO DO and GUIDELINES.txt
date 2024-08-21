@@ -1,4 +1,7 @@
 TO DO
+  — Create one "Syntax and morphosyntax" section, where I will be able to organize all the morphosyntax topics, including conditionals, information structure, pied-piping, second position clitics
+  — Move the "Cofán comes in all shapes and sizes to the Miscellaneous section?
+  — Organize the order of all articles on the website in the research section such that they are in chronological order, matching the description
   — Add the Phonological Domains workshop to my website, since that is the most recent work on this topic
   — Update the description of the section on diphthongs to reflect the advances in the LI revision.
   — Replace all my published articles on lingbuzz with the published version of the open access articles? (e.g. Phonology, NLLT, etc.)
