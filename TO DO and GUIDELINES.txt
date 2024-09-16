@@ -1,16 +1,13 @@
 TO DO
-  — Put on my CV that I have helped with the Phonological Domains workshop in the service section
+  — Create one "Syntax and morphosyntax" section, where I will be able to organize all the morphosyntax topics, including conditionals, information structure, pied-piping, second position clitics
+  — Move the "Cofán comes in all shapes and sizes" to the Miscellaneous section?
   — Add a "Media Outreach" section to my CV after I get some media outreach, maybe related to whales
     — include the interview I gave about Kofán language revitalization at Brown
     — Did I give any interview at the Emojicon?? 
-  — Create one "Syntax and morphosyntax" section, where I will be able to organize all the morphosyntax topics, including conditionals, information structure, pied-piping, second position clitics
-  — Move the "Cofán comes in all shapes and sizes to the Miscellaneous section?
-  — Organize the order of all articles on the website in the research section such that they are in chronological order, matching the description
-  — Add the Phonological Domains workshop to my website, since that is the most recent work on this topic
-  — Update the description of the section on diphthongs to reflect the advances in the LI revision.
   — Replace all my published articles on lingbuzz with the published version of the open access articles? (e.g. Phonology, NLLT, etc.)
   — Put negative nominalizations handout on lingbuzz and link on my website to it?
   — Remove the papers from the research folder that are not linked to by anything.
+  — Change the graphic for the diphthongs section with something that reflects my revised understanding of the timeline of changes?
   – Remove the indentation of A'ingae projects in the research list (doesn't look good given the expaded things around it)
   — Add "manuscript(_lingbuzz)" or "postprint" to the Phonology article on A'ingae stress dominance?
   — Replace the graphic for large language models with something more distinct, like an instance of recursion. Perhaps the Sierpiński triangle?
