@@ -1,4 +1,5 @@
 TO DO
+  — Fix the link to our group YM slides: Yucatec Maya in SBCG: A fragment,  as equal author, with Justin Bai, Kalinda Pride, and Nicholas Tomlin. Paper presented at the 24th International Conference on Head-Driven Phrase Structure Grammar, University of Kentucky, Lexington. 2017. slides
   — change the Linguistic Inquiry link on the home page after the paper gets officially accepted
   — After the LangSci volume has been published, update info, including the fact that it's been published in Berlin in my:
     — CV
