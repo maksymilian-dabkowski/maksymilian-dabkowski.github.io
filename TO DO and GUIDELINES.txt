@@ -1,7 +1,6 @@
 TO DO
   — Replate the image for the LLM section with a nice tweaked image of the recursive triangles picture which is in the recursion manuscript.
   — Replace the image for "Complex histories, ..." section with something that is not a tree? For example, the table demonstrating the diachronic development of fricatives into nasals?
-  — Fix the link to our group YM slides: Yucatec Maya in SBCG: A fragment,  as equal author, with Justin Bai, Kalinda Pride, and Nicholas Tomlin. Paper presented at the 24th International Conference on Head-Driven Phrase Structure Grammar, University of Kentucky, Lexington. 2017. slides
   — change the Linguistic Inquiry link on the home page after the paper gets officially accepted
   — After the LangSci volume has been published, update info, including the fact that it's been published in Berlin in my:
     — CV
@@ -9,11 +8,6 @@ TO DO
     — résumé
     — bibliography
     — "Research" section on the website
-  — Add a "Media Outreach" section to my CV after I get some media outreach, maybe related to whales
-    — include the interview I gave about Kofán language revitalization at Brown
-    — Did I give any interview at the Emojicon?? 
-    — American Philosophical Society's discussion of my work in Sinangoé? (after the fieldwork research report is published)
-    — after we have a press release somewhere? (about LLMs/whales/historical work)
   — Add another graphic to the PG section (now the bottom half is kinda empty)
   — Replace all my published articles on lingbuzz with the published version of the open access articles? (e.g. Phonology, NLLT, etc.)
   — Put negative nominalizations handout on lingbuzz and link on my website to it?
