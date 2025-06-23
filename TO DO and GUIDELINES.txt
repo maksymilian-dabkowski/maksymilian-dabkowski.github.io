@@ -1,15 +1,13 @@
 TO DO
+  – maybe: Remove the indentation of A'ingae projects in the research list (doesn't look good given the expaded things around it)
   — Change the graphic for the diphthongs section with something that reflects my revised understanding of the timeline of changes?
-  — Add additional pictureS to the Miscellaneous section
+  — Add additional pictures to the Miscellaneous section
   — change the Linguistic Inquiry link on the home page after the paper gets officially accepted
   — Add another graphic to the PG section (now the bottom half is kinda empty)? Perhaps a tableau showing the statisfaction of the exhaustivity constraint (something inspired by https://padlet-uploads.storage.googleapis.com/1367392511/07d9d6c5fcd52d6407c007bf58c32e36/Prosody_drives_Paraguayan_Guaran__suffix_order___a_presentation_poster__2_.pdf)
   — Replace all my published articles on lingbuzz with the published version of the open access articles? (e.g. Phonology, NLLT, etc.)
   — Put negative nominalizations handout on lingbuzz and link on my website to it?
   — Remove the papers from the research folder that are not linked to by anything.
-  – Remove the indentation of A'ingae projects in the research list (doesn't look good given the expaded things around it)
   — Add "manuscript(_lingbuzz)" or "postprint" to the Phonology article on A'ingae stress dominance?
-  — Replace the graphic for large language models with something more distinct, like an instance of recursion. Perhaps the Sierpiński triangle?
-  — Perhaps replace graphic for diphthongs and their changes with a Q-theoretic tableau. (Or keep the time axis and also add the tableau?)
 
 GUIDELINES
   1. Only include the most recent versions of research.
