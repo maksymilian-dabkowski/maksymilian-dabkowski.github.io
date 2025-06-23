@@ -1,18 +1,11 @@
 TO DO
-  — Replate the image for the LLM section with a nice tweaked image of the recursive triangles picture which is in the recursion manuscript.
-  — Replace the image for "Complex histories, ..." section with something that is not a tree? For example, the table demonstrating the diachronic development of fricatives into nasals?
+  — Change the graphic for the diphthongs section with something that reflects my revised understanding of the timeline of changes?
+  — Add additional pictureS to the Miscellaneous section
   — change the Linguistic Inquiry link on the home page after the paper gets officially accepted
-  — After the LangSci volume has been published, update info, including the fact that it's been published in Berlin in my:
-    — CV
-    — short CV
-    — résumé
-    — bibliography
-    — "Research" section on the website
-  — Add another graphic to the PG section (now the bottom half is kinda empty)
+  — Add another graphic to the PG section (now the bottom half is kinda empty)? Perhaps a tableau showing the statisfaction of the exhaustivity constraint (something inspired by https://padlet-uploads.storage.googleapis.com/1367392511/07d9d6c5fcd52d6407c007bf58c32e36/Prosody_drives_Paraguayan_Guaran__suffix_order___a_presentation_poster__2_.pdf)
   — Replace all my published articles on lingbuzz with the published version of the open access articles? (e.g. Phonology, NLLT, etc.)
   — Put negative nominalizations handout on lingbuzz and link on my website to it?
   — Remove the papers from the research folder that are not linked to by anything.
-  — Change the graphic for the diphthongs section with something that reflects my revised understanding of the timeline of changes?
   – Remove the indentation of A'ingae projects in the research list (doesn't look good given the expaded things around it)
   — Add "manuscript(_lingbuzz)" or "postprint" to the Phonology article on A'ingae stress dominance?
   — Replace the graphic for large language models with something more distinct, like an instance of recursion. Perhaps the Sierpiński triangle?
